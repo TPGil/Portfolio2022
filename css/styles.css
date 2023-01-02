@@ -17,3 +17,7 @@ Click nbfs://nbhost/SystemFileSystem/Templates/ClientSide/css.css to edit this t
 #texte{
     padding-left:10%;
 }
+
+#btn btn-primary btn-lg{
+    border-left:100 px;
+}
