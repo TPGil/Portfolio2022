@@ -21,3 +21,11 @@ Click nbfs://nbhost/SystemFileSystem/Templates/ClientSide/css.css to edit this t
 #btn btn-primary btn-lg{
     border-left:100 px;
 }
+
+.titreh4{
+    text-decoration: underline;
+}
+
+.contenuport{
+    margin-left: 10%;
+}
